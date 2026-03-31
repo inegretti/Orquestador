@@ -1,0 +1,2 @@
+API_KEY_GROQ=(ingresa tu api key de groq aquí sin comillas)
+API_KEY_OPENAI=(ingresa tu api key de open router aquí sin comillas)
